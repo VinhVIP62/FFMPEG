@@ -50,6 +50,12 @@ ffmpeg -i video.mp4 -filter:v "crop=500:500:0:0" out.mp4
 ffmpeg -i video.mp4 -vf "drawtext=text='© Krishna':x=(1100-text_w):y=(600-text_h):fontsize=32:fontcolor=black:box=1:boxcolor=blue@0.5: boxborderw=50, drawtext=text='Vinh':x=0:y=0 :fontsize=32:fontcolor=black:box=1:boxcolor=green@0.5: boxborderw=20" -c:a copy output3.mp4
 ```
 
+```c
+ffmpeg -i video.mp4 -vf "drawtext=text='Text 1':x=200:y=200 :fontsize=32:fontcolor=black:box=1:boxcolor=blue@0.5: boxborderw=50: enable='between(t,1,4)', drawtext=text='Text 2':x=200:y=200 :fontsize=32:fontcolor=black:box=1:boxcolor=green@0.5: boxborderw=20: enable='between(t,4,7)'" -c:a copy output3.mp4
+```
+
+
+
 8. Rotate video
 
 - 0 = 90 Counter Clockwise and Vertical Flip (default)
