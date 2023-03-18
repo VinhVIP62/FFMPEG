@@ -85,3 +85,12 @@ ffmpeg -i video.mp4 -i logo6.png -filter_complex "[1]format=rgba,colorchannelmix
 ```c
 ffmpeg -i video.mp4 -i logo.png -i logo.png -filter_complex "[1]format=rgba,colorchannelmixer=aa=0.5[logo1]; [logo1]scale=200:200,rotate=45*PI/180: c=none: ow=rotw(iw): oh=roth(ih)[rotate1]; [0:v][rotate1]overlay=500:500[vid1]; [2]format=rgba,colorchannelmixer=aa=0.5[logo2]; [logo2]scale=200:200,rotate=0*PI/180: c=none: ow=rotw(iw): oh=roth(ih)[rotate2]; [vid1][rotate2]overlay=100:100" -codec:a copy output_logo2.mp4
 ```
+
+9. Delog (Xoá logo)
+```c
+ffmpeg -i input.mp4 -filter_complex delogo=x=10:y=20:w=90:h=30 delogo.mp4
+```
+
+ffmpeg -i video.mp4 -i logo.png -filter_complex "[1]format=rgba,colorchannelmixer=aa=1.0[logo1]; [0:v][logo1]overlay=100:100" -codec:a copy output_logode.mp4
+
+ffmpeg -i output_logode.mp4 -filter_complex delogo=x=100:y=100:w=512:h=512 delogo.mp4

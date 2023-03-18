@@ -1,0 +1,2704 @@
+{
+    "frames": [
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.000002",
+                "lavfi.astats.Overall.Max_level": "0.000002"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.213019",
+                "lavfi.astats.Overall.Max_level": "0.244593"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.162074",
+                "lavfi.astats.Overall.Max_level": "0.194834"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.223401",
+                "lavfi.astats.Overall.Max_level": "0.223275"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.157609",
+                "lavfi.astats.Overall.Max_level": "0.160123"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.211297",
+                "lavfi.astats.Overall.Max_level": "0.204492"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.141779",
+                "lavfi.astats.Overall.Max_level": "0.138155"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.230695",
+                "lavfi.astats.Overall.Max_level": "0.250096"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.220865",
+                "lavfi.astats.Overall.Max_level": "0.177650"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.201382",
+                "lavfi.astats.Overall.Max_level": "0.213813"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.428538",
+                "lavfi.astats.Overall.Max_level": "0.327114"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.363077",
+                "lavfi.astats.Overall.Max_level": "0.300940"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.386823",
+                "lavfi.astats.Overall.Max_level": "0.309060"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.367318",
+                "lavfi.astats.Overall.Max_level": "0.261231"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.293489",
+                "lavfi.astats.Overall.Max_level": "0.263579"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.271396",
+                "lavfi.astats.Overall.Max_level": "0.339475"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.280251",
+                "lavfi.astats.Overall.Max_level": "0.297808"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.377510",
+                "lavfi.astats.Overall.Max_level": "0.332002"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.344930",
+                "lavfi.astats.Overall.Max_level": "0.290092"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.391198",
+                "lavfi.astats.Overall.Max_level": "0.320089"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.658703",
+                "lavfi.astats.Overall.Max_level": "0.671041"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.653667",
+                "lavfi.astats.Overall.Max_level": "0.611311"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.570227",
+                "lavfi.astats.Overall.Max_level": "0.568292"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.656503",
+                "lavfi.astats.Overall.Max_level": "0.643079"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.597700",
+                "lavfi.astats.Overall.Max_level": "0.583968"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.622781",
+                "lavfi.astats.Overall.Max_level": "0.624146"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.654542",
+                "lavfi.astats.Overall.Max_level": "0.638440"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.604322",
+                "lavfi.astats.Overall.Max_level": "0.614289"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.599465",
+                "lavfi.astats.Overall.Max_level": "0.599327"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.569446",
+                "lavfi.astats.Overall.Max_level": "0.570457"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.668249",
+                "lavfi.astats.Overall.Max_level": "0.629965"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.676470",
+                "lavfi.astats.Overall.Max_level": "0.603197"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.650789",
+                "lavfi.astats.Overall.Max_level": "0.651702"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.665405",
+                "lavfi.astats.Overall.Max_level": "0.661391"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.646039",
+                "lavfi.astats.Overall.Max_level": "0.623891"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.654507",
+                "lavfi.astats.Overall.Max_level": "0.528048"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.645610",
+                "lavfi.astats.Overall.Max_level": "0.614213"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.672246",
+                "lavfi.astats.Overall.Max_level": "0.644856"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.612384",
+                "lavfi.astats.Overall.Max_level": "0.654767"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.623450",
+                "lavfi.astats.Overall.Max_level": "0.585203"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.631792",
+                "lavfi.astats.Overall.Max_level": "0.647168"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.611745",
+                "lavfi.astats.Overall.Max_level": "0.561070"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.613380",
+                "lavfi.astats.Overall.Max_level": "0.613771"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.629839",
+                "lavfi.astats.Overall.Max_level": "0.632497"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.646622",
+                "lavfi.astats.Overall.Max_level": "0.621638"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.642670",
+                "lavfi.astats.Overall.Max_level": "0.601727"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.595953",
+                "lavfi.astats.Overall.Max_level": "0.611764"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.614530",
+                "lavfi.astats.Overall.Max_level": "0.655183"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.572612",
+                "lavfi.astats.Overall.Max_level": "0.578868"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.615884",
+                "lavfi.astats.Overall.Max_level": "0.592746"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.610112",
+                "lavfi.astats.Overall.Max_level": "0.685670"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.644928",
+                "lavfi.astats.Overall.Max_level": "0.631264"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.631032",
+                "lavfi.astats.Overall.Max_level": "0.619301"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.678424",
+                "lavfi.astats.Overall.Max_level": "0.677801"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.544916",
+                "lavfi.astats.Overall.Max_level": "0.562557"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.633769",
+                "lavfi.astats.Overall.Max_level": "0.628104"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.630171",
+                "lavfi.astats.Overall.Max_level": "0.621458"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.643838",
+                "lavfi.astats.Overall.Max_level": "0.682610"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.638122",
+                "lavfi.astats.Overall.Max_level": "0.641644"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.674071",
+                "lavfi.astats.Overall.Max_level": "0.667006"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.575812",
+                "lavfi.astats.Overall.Max_level": "0.534515"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.647261",
+                "lavfi.astats.Overall.Max_level": "0.633116"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.639343",
+                "lavfi.astats.Overall.Max_level": "0.656561"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.699154",
+                "lavfi.astats.Overall.Max_level": "0.647674"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.623640",
+                "lavfi.astats.Overall.Max_level": "0.632257"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.631411",
+                "lavfi.astats.Overall.Max_level": "0.691007"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.651197",
+                "lavfi.astats.Overall.Max_level": "0.667283"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.609294",
+                "lavfi.astats.Overall.Max_level": "0.608936"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.637112",
+                "lavfi.astats.Overall.Max_level": "0.624782"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.648303",
+                "lavfi.astats.Overall.Max_level": "0.641735"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.668067",
+                "lavfi.astats.Overall.Max_level": "0.638285"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.687251",
+                "lavfi.astats.Overall.Max_level": "0.653752"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.714229",
+                "lavfi.astats.Overall.Max_level": "0.661734"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.515552",
+                "lavfi.astats.Overall.Max_level": "0.525530"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.615303",
+                "lavfi.astats.Overall.Max_level": "0.633209"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.619556",
+                "lavfi.astats.Overall.Max_level": "0.651552"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.638734",
+                "lavfi.astats.Overall.Max_level": "0.654882"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.609754",
+                "lavfi.astats.Overall.Max_level": "0.588979"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.608731",
+                "lavfi.astats.Overall.Max_level": "0.626092"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.519560",
+                "lavfi.astats.Overall.Max_level": "0.546168"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.714049",
+                "lavfi.astats.Overall.Max_level": "0.728117"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.655430",
+                "lavfi.astats.Overall.Max_level": "0.673771"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.616572",
+                "lavfi.astats.Overall.Max_level": "0.575872"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.608056",
+                "lavfi.astats.Overall.Max_level": "0.632056"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.631880",
+                "lavfi.astats.Overall.Max_level": "0.623443"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.599426",
+                "lavfi.astats.Overall.Max_level": "0.623194"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.614980",
+                "lavfi.astats.Overall.Max_level": "0.609859"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.657470",
+                "lavfi.astats.Overall.Max_level": "0.634134"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.647924",
+                "lavfi.astats.Overall.Max_level": "0.664928"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.663308",
+                "lavfi.astats.Overall.Max_level": "0.631794"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.627870",
+                "lavfi.astats.Overall.Max_level": "0.631493"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.668930",
+                "lavfi.astats.Overall.Max_level": "0.649007"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.607431",
+                "lavfi.astats.Overall.Max_level": "0.560498"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.625605",
+                "lavfi.astats.Overall.Max_level": "0.670813"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.604106",
+                "lavfi.astats.Overall.Max_level": "0.622691"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.622629",
+                "lavfi.astats.Overall.Max_level": "0.654330"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.615815",
+                "lavfi.astats.Overall.Max_level": "0.617363"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.643371",
+                "lavfi.astats.Overall.Max_level": "0.638266"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.573561",
+                "lavfi.astats.Overall.Max_level": "0.524857"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.660271",
+                "lavfi.astats.Overall.Max_level": "0.588495"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.633553",
+                "lavfi.astats.Overall.Max_level": "0.674635"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.595924",
+                "lavfi.astats.Overall.Max_level": "0.581723"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.595118",
+                "lavfi.astats.Overall.Max_level": "0.599459"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.602304",
+                "lavfi.astats.Overall.Max_level": "0.650860"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.597272",
+                "lavfi.astats.Overall.Max_level": "0.605256"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.583061",
+                "lavfi.astats.Overall.Max_level": "0.572071"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.605516",
+                "lavfi.astats.Overall.Max_level": "0.590904"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.650829",
+                "lavfi.astats.Overall.Max_level": "0.642924"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.643809",
+                "lavfi.astats.Overall.Max_level": "0.618771"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.626144",
+                "lavfi.astats.Overall.Max_level": "0.675084"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.640816",
+                "lavfi.astats.Overall.Max_level": "0.621920"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.607678",
+                "lavfi.astats.Overall.Max_level": "0.539447"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.621494",
+                "lavfi.astats.Overall.Max_level": "0.583828"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.615065",
+                "lavfi.astats.Overall.Max_level": "0.669087"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.670375",
+                "lavfi.astats.Overall.Max_level": "0.639819"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.648615",
+                "lavfi.astats.Overall.Max_level": "0.637334"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.635075",
+                "lavfi.astats.Overall.Max_level": "0.652878"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.592668",
+                "lavfi.astats.Overall.Max_level": "0.588170"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.633478",
+                "lavfi.astats.Overall.Max_level": "0.654670"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.622473",
+                "lavfi.astats.Overall.Max_level": "0.624432"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.707867",
+                "lavfi.astats.Overall.Max_level": "0.655918"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.605831",
+                "lavfi.astats.Overall.Max_level": "0.624717"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.660782",
+                "lavfi.astats.Overall.Max_level": "0.672569"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.599817",
+                "lavfi.astats.Overall.Max_level": "0.622846"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.611281",
+                "lavfi.astats.Overall.Max_level": "0.669065"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.625882",
+                "lavfi.astats.Overall.Max_level": "0.650898"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.661942",
+                "lavfi.astats.Overall.Max_level": "0.606541"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.646309",
+                "lavfi.astats.Overall.Max_level": "0.650280"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.646914",
+                "lavfi.astats.Overall.Max_level": "0.715232"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.653131",
+                "lavfi.astats.Overall.Max_level": "0.617885"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.566065",
+                "lavfi.astats.Overall.Max_level": "0.491241"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.646309",
+                "lavfi.astats.Overall.Max_level": "0.669415"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.637828",
+                "lavfi.astats.Overall.Max_level": "0.606325"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.587776",
+                "lavfi.astats.Overall.Max_level": "0.583090"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.618448",
+                "lavfi.astats.Overall.Max_level": "0.603774"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.600310",
+                "lavfi.astats.Overall.Max_level": "0.589830"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.567276",
+                "lavfi.astats.Overall.Max_level": "0.536369"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.637169",
+                "lavfi.astats.Overall.Max_level": "0.621179"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.590059",
+                "lavfi.astats.Overall.Max_level": "0.619743"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.617115",
+                "lavfi.astats.Overall.Max_level": "0.639791"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.636689",
+                "lavfi.astats.Overall.Max_level": "0.681690"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.647582",
+                "lavfi.astats.Overall.Max_level": "0.667456"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.515082",
+                "lavfi.astats.Overall.Max_level": "0.551612"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.604109",
+                "lavfi.astats.Overall.Max_level": "0.609990"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.665524",
+                "lavfi.astats.Overall.Max_level": "0.614411"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.646052",
+                "lavfi.astats.Overall.Max_level": "0.639716"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.690708",
+                "lavfi.astats.Overall.Max_level": "0.615817"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.669663",
+                "lavfi.astats.Overall.Max_level": "0.676298"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.662066",
+                "lavfi.astats.Overall.Max_level": "0.612968"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.540964",
+                "lavfi.astats.Overall.Max_level": "0.609886"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.612797",
+                "lavfi.astats.Overall.Max_level": "0.632907"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.620071",
+                "lavfi.astats.Overall.Max_level": "0.645339"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.558881",
+                "lavfi.astats.Overall.Max_level": "0.585637"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.531171",
+                "lavfi.astats.Overall.Max_level": "0.540529"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.461235",
+                "lavfi.astats.Overall.Max_level": "0.461242"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.516044",
+                "lavfi.astats.Overall.Max_level": "0.442949"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.496536",
+                "lavfi.astats.Overall.Max_level": "0.523191"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.486556",
+                "lavfi.astats.Overall.Max_level": "0.528269"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.446027",
+                "lavfi.astats.Overall.Max_level": "0.443054"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.463588",
+                "lavfi.astats.Overall.Max_level": "0.464481"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.540788",
+                "lavfi.astats.Overall.Max_level": "0.507400"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.348140",
+                "lavfi.astats.Overall.Max_level": "0.375817"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.618286",
+                "lavfi.astats.Overall.Max_level": "0.599777"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.691595",
+                "lavfi.astats.Overall.Max_level": "0.650367"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.693194",
+                "lavfi.astats.Overall.Max_level": "0.688084"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.646210",
+                "lavfi.astats.Overall.Max_level": "0.655093"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.665640",
+                "lavfi.astats.Overall.Max_level": "0.618729"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.672832",
+                "lavfi.astats.Overall.Max_level": "0.612659"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.583539",
+                "lavfi.astats.Overall.Max_level": "0.515529"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.634381",
+                "lavfi.astats.Overall.Max_level": "0.687242"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.612711",
+                "lavfi.astats.Overall.Max_level": "0.576700"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.691198",
+                "lavfi.astats.Overall.Max_level": "0.603710"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.601397",
+                "lavfi.astats.Overall.Max_level": "0.575983"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.571462",
+                "lavfi.astats.Overall.Max_level": "0.568360"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.625007",
+                "lavfi.astats.Overall.Max_level": "0.597836"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.594564",
+                "lavfi.astats.Overall.Max_level": "0.577740"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.628141",
+                "lavfi.astats.Overall.Max_level": "0.576005"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.599483",
+                "lavfi.astats.Overall.Max_level": "0.584297"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.578003",
+                "lavfi.astats.Overall.Max_level": "0.523439"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.587564",
+                "lavfi.astats.Overall.Max_level": "0.598748"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.582660",
+                "lavfi.astats.Overall.Max_level": "0.538339"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.594675",
+                "lavfi.astats.Overall.Max_level": "0.542103"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.582000",
+                "lavfi.astats.Overall.Max_level": "0.563607"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.597575",
+                "lavfi.astats.Overall.Max_level": "0.552683"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.614854",
+                "lavfi.astats.Overall.Max_level": "0.558502"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.565770",
+                "lavfi.astats.Overall.Max_level": "0.534868"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.501710",
+                "lavfi.astats.Overall.Max_level": "0.480164"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.457303",
+                "lavfi.astats.Overall.Max_level": "0.484996"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.387227",
+                "lavfi.astats.Overall.Max_level": "0.351506"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.310295",
+                "lavfi.astats.Overall.Max_level": "0.282499"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.255764",
+                "lavfi.astats.Overall.Max_level": "0.230120"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.112644",
+                "lavfi.astats.Overall.Max_level": "0.097333"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.004941",
+                "lavfi.astats.Overall.Max_level": "0.004859"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.000932",
+                "lavfi.astats.Overall.Max_level": "0.001044"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.714073",
+                "lavfi.astats.Overall.Max_level": "0.585283"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.706190",
+                "lavfi.astats.Overall.Max_level": "0.635286"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.691111",
+                "lavfi.astats.Overall.Max_level": "0.599956"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.636461",
+                "lavfi.astats.Overall.Max_level": "0.560452"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.693974",
+                "lavfi.astats.Overall.Max_level": "0.490683"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.612459",
+                "lavfi.astats.Overall.Max_level": "0.570007"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.872841",
+                "lavfi.astats.Overall.Max_level": "0.757052"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.858041",
+                "lavfi.astats.Overall.Max_level": "0.770148"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.830110",
+                "lavfi.astats.Overall.Max_level": "0.818321"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.720087",
+                "lavfi.astats.Overall.Max_level": "0.763221"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.785760",
+                "lavfi.astats.Overall.Max_level": "0.795052"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.983645",
+                "lavfi.astats.Overall.Max_level": "0.828358"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.880849",
+                "lavfi.astats.Overall.Max_level": "0.858092"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.801806",
+                "lavfi.astats.Overall.Max_level": "0.796240"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.785000",
+                "lavfi.astats.Overall.Max_level": "0.813916"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.828407",
+                "lavfi.astats.Overall.Max_level": "0.855103"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.819729",
+                "lavfi.astats.Overall.Max_level": "0.819154"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.775275",
+                "lavfi.astats.Overall.Max_level": "0.781352"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.832675",
+                "lavfi.astats.Overall.Max_level": "0.928401"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.714181",
+                "lavfi.astats.Overall.Max_level": "0.724550"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.801992",
+                "lavfi.astats.Overall.Max_level": "0.864379"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.789707",
+                "lavfi.astats.Overall.Max_level": "0.731241"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.772803",
+                "lavfi.astats.Overall.Max_level": "0.806901"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.760340",
+                "lavfi.astats.Overall.Max_level": "0.772344"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.912874",
+                "lavfi.astats.Overall.Max_level": "0.875502"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.913630",
+                "lavfi.astats.Overall.Max_level": "0.885421"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.860886",
+                "lavfi.astats.Overall.Max_level": "0.787475"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.741880",
+                "lavfi.astats.Overall.Max_level": "0.870443"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.687841",
+                "lavfi.astats.Overall.Max_level": "0.742181"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.772439",
+                "lavfi.astats.Overall.Max_level": "0.672308"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.629783",
+                "lavfi.astats.Overall.Max_level": "0.639853"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.739191",
+                "lavfi.astats.Overall.Max_level": "0.613430"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.644813",
+                "lavfi.astats.Overall.Max_level": "0.681554"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.761223",
+                "lavfi.astats.Overall.Max_level": "0.663448"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.607883",
+                "lavfi.astats.Overall.Max_level": "0.540267"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.577036",
+                "lavfi.astats.Overall.Max_level": "0.662699"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.744544",
+                "lavfi.astats.Overall.Max_level": "0.699107"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.658573",
+                "lavfi.astats.Overall.Max_level": "0.755444"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.712682",
+                "lavfi.astats.Overall.Max_level": "0.641786"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.713289",
+                "lavfi.astats.Overall.Max_level": "0.794499"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.744071",
+                "lavfi.astats.Overall.Max_level": "0.623908"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.700211",
+                "lavfi.astats.Overall.Max_level": "0.708205"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.772041",
+                "lavfi.astats.Overall.Max_level": "0.638264"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.784251",
+                "lavfi.astats.Overall.Max_level": "0.714153"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.638612",
+                "lavfi.astats.Overall.Max_level": "0.621988"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.682246",
+                "lavfi.astats.Overall.Max_level": "0.587071"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.718482",
+                "lavfi.astats.Overall.Max_level": "0.699486"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.641577",
+                "lavfi.astats.Overall.Max_level": "0.569621"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.696697",
+                "lavfi.astats.Overall.Max_level": "0.659229"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.607823",
+                "lavfi.astats.Overall.Max_level": "0.593761"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.734535",
+                "lavfi.astats.Overall.Max_level": "0.637626"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.693182",
+                "lavfi.astats.Overall.Max_level": "0.690252"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.711632",
+                "lavfi.astats.Overall.Max_level": "0.824274"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.662988",
+                "lavfi.astats.Overall.Max_level": "0.799619"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.510774",
+                "lavfi.astats.Overall.Max_level": "0.520129"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.692085",
+                "lavfi.astats.Overall.Max_level": "0.680709"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.679607",
+                "lavfi.astats.Overall.Max_level": "0.636778"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.609572",
+                "lavfi.astats.Overall.Max_level": "0.541145"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.714451",
+                "lavfi.astats.Overall.Max_level": "0.675422"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.721056",
+                "lavfi.astats.Overall.Max_level": "0.690204"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.700403",
+                "lavfi.astats.Overall.Max_level": "0.663430"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.624418",
+                "lavfi.astats.Overall.Max_level": "0.674793"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.739999",
+                "lavfi.astats.Overall.Max_level": "0.647957"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.845295",
+                "lavfi.astats.Overall.Max_level": "0.858851"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.765671",
+                "lavfi.astats.Overall.Max_level": "0.788526"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.746946",
+                "lavfi.astats.Overall.Max_level": "0.906182"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.915826",
+                "lavfi.astats.Overall.Max_level": "0.767656"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.806909",
+                "lavfi.astats.Overall.Max_level": "0.841608"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.836382",
+                "lavfi.astats.Overall.Max_level": "0.739347"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.898323",
+                "lavfi.astats.Overall.Max_level": "0.769158"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.849326",
+                "lavfi.astats.Overall.Max_level": "0.799750"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.714165",
+                "lavfi.astats.Overall.Max_level": "0.814820"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.689710",
+                "lavfi.astats.Overall.Max_level": "0.813204"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.676497",
+                "lavfi.astats.Overall.Max_level": "0.655235"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.700592",
+                "lavfi.astats.Overall.Max_level": "0.725433"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.858049",
+                "lavfi.astats.Overall.Max_level": "0.708364"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.787327",
+                "lavfi.astats.Overall.Max_level": "0.695500"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.734020",
+                "lavfi.astats.Overall.Max_level": "0.684945"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.688110",
+                "lavfi.astats.Overall.Max_level": "0.683750"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.650004",
+                "lavfi.astats.Overall.Max_level": "0.552695"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.764231",
+                "lavfi.astats.Overall.Max_level": "0.683529"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.588225",
+                "lavfi.astats.Overall.Max_level": "0.609999"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.818511",
+                "lavfi.astats.Overall.Max_level": "0.662770"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.671472",
+                "lavfi.astats.Overall.Max_level": "0.699253"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.785501",
+                "lavfi.astats.Overall.Max_level": "0.626823"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.704472",
+                "lavfi.astats.Overall.Max_level": "0.633055"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.635036",
+                "lavfi.astats.Overall.Max_level": "0.729187"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.688162",
+                "lavfi.astats.Overall.Max_level": "0.712237"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.769730",
+                "lavfi.astats.Overall.Max_level": "0.678125"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.696882",
+                "lavfi.astats.Overall.Max_level": "0.650078"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.744103",
+                "lavfi.astats.Overall.Max_level": "0.621385"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.818598",
+                "lavfi.astats.Overall.Max_level": "0.766546"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.839267",
+                "lavfi.astats.Overall.Max_level": "0.863520"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.821678",
+                "lavfi.astats.Overall.Max_level": "0.686585"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.745592",
+                "lavfi.astats.Overall.Max_level": "0.823333"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.777960",
+                "lavfi.astats.Overall.Max_level": "0.699093"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.806406",
+                "lavfi.astats.Overall.Max_level": "0.706569"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.735647",
+                "lavfi.astats.Overall.Max_level": "0.745536"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.862842",
+                "lavfi.astats.Overall.Max_level": "0.693933"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.757573",
+                "lavfi.astats.Overall.Max_level": "0.884045"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.808119",
+                "lavfi.astats.Overall.Max_level": "0.743163"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.770839",
+                "lavfi.astats.Overall.Max_level": "0.721582"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.773450",
+                "lavfi.astats.Overall.Max_level": "0.793996"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.948395",
+                "lavfi.astats.Overall.Max_level": "0.817779"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.761832",
+                "lavfi.astats.Overall.Max_level": "0.747275"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.761994",
+                "lavfi.astats.Overall.Max_level": "0.724174"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.753081",
+                "lavfi.astats.Overall.Max_level": "0.749793"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.761067",
+                "lavfi.astats.Overall.Max_level": "0.860234"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.780713",
+                "lavfi.astats.Overall.Max_level": "0.707052"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.779012",
+                "lavfi.astats.Overall.Max_level": "0.750332"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.754215",
+                "lavfi.astats.Overall.Max_level": "0.745847"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.771379",
+                "lavfi.astats.Overall.Max_level": "0.725815"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.809348",
+                "lavfi.astats.Overall.Max_level": "0.768174"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.791481",
+                "lavfi.astats.Overall.Max_level": "0.717005"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.824991",
+                "lavfi.astats.Overall.Max_level": "0.815423"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.832598",
+                "lavfi.astats.Overall.Max_level": "0.816042"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.674203",
+                "lavfi.astats.Overall.Max_level": "0.653617"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.765516",
+                "lavfi.astats.Overall.Max_level": "0.777263"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.715133",
+                "lavfi.astats.Overall.Max_level": "0.715983"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.645251",
+                "lavfi.astats.Overall.Max_level": "0.737186"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.653891",
+                "lavfi.astats.Overall.Max_level": "0.743344"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.721808",
+                "lavfi.astats.Overall.Max_level": "0.756908"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.695595",
+                "lavfi.astats.Overall.Max_level": "0.709281"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.818602",
+                "lavfi.astats.Overall.Max_level": "0.705058"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.697522",
+                "lavfi.astats.Overall.Max_level": "0.678078"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.702568",
+                "lavfi.astats.Overall.Max_level": "0.713867"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.734822",
+                "lavfi.astats.Overall.Max_level": "0.792259"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.744004",
+                "lavfi.astats.Overall.Max_level": "0.802563"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.732811",
+                "lavfi.astats.Overall.Max_level": "0.687141"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.754841",
+                "lavfi.astats.Overall.Max_level": "0.749165"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.804014",
+                "lavfi.astats.Overall.Max_level": "0.667504"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.642064",
+                "lavfi.astats.Overall.Max_level": "0.663953"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.636483",
+                "lavfi.astats.Overall.Max_level": "0.734215"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.772325",
+                "lavfi.astats.Overall.Max_level": "0.720520"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.669209",
+                "lavfi.astats.Overall.Max_level": "0.697742"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.691275",
+                "lavfi.astats.Overall.Max_level": "0.642083"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.442650",
+                "lavfi.astats.Overall.Max_level": "0.449287"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.819004",
+                "lavfi.astats.Overall.Max_level": "0.817704"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.843620",
+                "lavfi.astats.Overall.Max_level": "0.742395"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.879209",
+                "lavfi.astats.Overall.Max_level": "0.792725"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.836173",
+                "lavfi.astats.Overall.Max_level": "0.812821"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.815025",
+                "lavfi.astats.Overall.Max_level": "0.830240"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.924407",
+                "lavfi.astats.Overall.Max_level": "0.800477"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.787123",
+                "lavfi.astats.Overall.Max_level": "0.840911"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.811474",
+                "lavfi.astats.Overall.Max_level": "0.777730"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.812980",
+                "lavfi.astats.Overall.Max_level": "0.731158"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.808676",
+                "lavfi.astats.Overall.Max_level": "0.854676"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.725350",
+                "lavfi.astats.Overall.Max_level": "0.689214"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.755636",
+                "lavfi.astats.Overall.Max_level": "0.745550"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.784154",
+                "lavfi.astats.Overall.Max_level": "0.823177"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.748193",
+                "lavfi.astats.Overall.Max_level": "0.683776"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.761854",
+                "lavfi.astats.Overall.Max_level": "0.781068"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.838137",
+                "lavfi.astats.Overall.Max_level": "0.817750"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.838300",
+                "lavfi.astats.Overall.Max_level": "0.778773"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.840234",
+                "lavfi.astats.Overall.Max_level": "0.817772"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.815675",
+                "lavfi.astats.Overall.Max_level": "0.769113"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.718453",
+                "lavfi.astats.Overall.Max_level": "0.824940"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.786965",
+                "lavfi.astats.Overall.Max_level": "0.780035"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.835985",
+                "lavfi.astats.Overall.Max_level": "0.676955"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.782407",
+                "lavfi.astats.Overall.Max_level": "0.815503"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.831998",
+                "lavfi.astats.Overall.Max_level": "0.775571"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.673114",
+                "lavfi.astats.Overall.Max_level": "0.697680"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.708321",
+                "lavfi.astats.Overall.Max_level": "0.659324"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.618730",
+                "lavfi.astats.Overall.Max_level": "0.658927"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.731841",
+                "lavfi.astats.Overall.Max_level": "0.688231"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.889223",
+                "lavfi.astats.Overall.Max_level": "0.809535"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.846327",
+                "lavfi.astats.Overall.Max_level": "0.850632"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.793093",
+                "lavfi.astats.Overall.Max_level": "0.928053"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.795130",
+                "lavfi.astats.Overall.Max_level": "0.745477"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.731336",
+                "lavfi.astats.Overall.Max_level": "0.683581"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.776873",
+                "lavfi.astats.Overall.Max_level": "0.735381"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.884964",
+                "lavfi.astats.Overall.Max_level": "0.855347"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.775278",
+                "lavfi.astats.Overall.Max_level": "0.764559"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.792033",
+                "lavfi.astats.Overall.Max_level": "0.643656"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.862590",
+                "lavfi.astats.Overall.Max_level": "0.856337"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.826487",
+                "lavfi.astats.Overall.Max_level": "0.801028"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.817652",
+                "lavfi.astats.Overall.Max_level": "0.810018"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.838207",
+                "lavfi.astats.Overall.Max_level": "0.813882"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.774259",
+                "lavfi.astats.Overall.Max_level": "0.707052"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.821510",
+                "lavfi.astats.Overall.Max_level": "0.792997"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.885016",
+                "lavfi.astats.Overall.Max_level": "0.836563"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.816596",
+                "lavfi.astats.Overall.Max_level": "0.853093"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.802184",
+                "lavfi.astats.Overall.Max_level": "0.745853"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.770133",
+                "lavfi.astats.Overall.Max_level": "0.890568"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.197649",
+                "lavfi.astats.Overall.Max_level": "0.227310"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.011556",
+                "lavfi.astats.Overall.Max_level": "0.011842"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.107120",
+                "lavfi.astats.Overall.Max_level": "0.098137"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.218264",
+                "lavfi.astats.Overall.Max_level": "0.224739"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.293228",
+                "lavfi.astats.Overall.Max_level": "0.274564"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.289116",
+                "lavfi.astats.Overall.Max_level": "0.275238"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.440359",
+                "lavfi.astats.Overall.Max_level": "0.433875"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.475228",
+                "lavfi.astats.Overall.Max_level": "0.507391"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.558833",
+                "lavfi.astats.Overall.Max_level": "0.581219"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.588912",
+                "lavfi.astats.Overall.Max_level": "0.582741"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.566695",
+                "lavfi.astats.Overall.Max_level": "0.715896"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.990070",
+                "lavfi.astats.Overall.Max_level": "0.980771"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.984474",
+                "lavfi.astats.Overall.Max_level": "0.980371"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.023577",
+                "lavfi.astats.Overall.Max_level": "0.998881"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.986503",
+                "lavfi.astats.Overall.Max_level": "1.020392"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.976917",
+                "lavfi.astats.Overall.Max_level": "0.997597"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.974253",
+                "lavfi.astats.Overall.Max_level": "0.987954"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.968744",
+                "lavfi.astats.Overall.Max_level": "0.971749"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.968716",
+                "lavfi.astats.Overall.Max_level": "0.974651"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.990769",
+                "lavfi.astats.Overall.Max_level": "0.977777"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.016626",
+                "lavfi.astats.Overall.Max_level": "1.007062"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.963642",
+                "lavfi.astats.Overall.Max_level": "0.971641"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.014521",
+                "lavfi.astats.Overall.Max_level": "0.962256"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.016446",
+                "lavfi.astats.Overall.Max_level": "0.999122"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.011309",
+                "lavfi.astats.Overall.Max_level": "0.995948"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.008425",
+                "lavfi.astats.Overall.Max_level": "0.984258"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.050815",
+                "lavfi.astats.Overall.Max_level": "1.017804"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.012508",
+                "lavfi.astats.Overall.Max_level": "1.057689"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.982815",
+                "lavfi.astats.Overall.Max_level": "1.024019"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.982296",
+                "lavfi.astats.Overall.Max_level": "0.982990"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.939927",
+                "lavfi.astats.Overall.Max_level": "0.969045"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.967706",
+                "lavfi.astats.Overall.Max_level": "0.989362"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.958028",
+                "lavfi.astats.Overall.Max_level": "0.971533"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.973406",
+                "lavfi.astats.Overall.Max_level": "0.975385"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.970738",
+                "lavfi.astats.Overall.Max_level": "0.981745"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.955801",
+                "lavfi.astats.Overall.Max_level": "0.976079"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.078971",
+                "lavfi.astats.Overall.Max_level": "1.118519"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.974372",
+                "lavfi.astats.Overall.Max_level": "0.982896"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.977449",
+                "lavfi.astats.Overall.Max_level": "0.968471"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.921230",
+                "lavfi.astats.Overall.Max_level": "0.952611"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.983841",
+                "lavfi.astats.Overall.Max_level": "1.001328"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.995928",
+                "lavfi.astats.Overall.Max_level": "1.016414"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.999214",
+                "lavfi.astats.Overall.Max_level": "0.983306"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.958818",
+                "lavfi.astats.Overall.Max_level": "0.960923"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.992811",
+                "lavfi.astats.Overall.Max_level": "0.980725"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.997298",
+                "lavfi.astats.Overall.Max_level": "0.999744"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.986060",
+                "lavfi.astats.Overall.Max_level": "0.977306"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.024605",
+                "lavfi.astats.Overall.Max_level": "1.002478"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.994097",
+                "lavfi.astats.Overall.Max_level": "0.998197"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.012607",
+                "lavfi.astats.Overall.Max_level": "1.005902"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.210373",
+                "lavfi.astats.Overall.Max_level": "1.076745"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.048289",
+                "lavfi.astats.Overall.Max_level": "1.007331"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.084777",
+                "lavfi.astats.Overall.Max_level": "1.182647"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.995939",
+                "lavfi.astats.Overall.Max_level": "0.982559"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.077419",
+                "lavfi.astats.Overall.Max_level": "1.024970"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.096210",
+                "lavfi.astats.Overall.Max_level": "1.065451"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.028479",
+                "lavfi.astats.Overall.Max_level": "1.001458"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.993500",
+                "lavfi.astats.Overall.Max_level": "1.004659"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.998565",
+                "lavfi.astats.Overall.Max_level": "1.005163"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.992276",
+                "lavfi.astats.Overall.Max_level": "1.017564"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.992178",
+                "lavfi.astats.Overall.Max_level": "0.984147"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.967295",
+                "lavfi.astats.Overall.Max_level": "1.005725"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.003312",
+                "lavfi.astats.Overall.Max_level": "1.002404"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.982823",
+                "lavfi.astats.Overall.Max_level": "0.976231"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.971278",
+                "lavfi.astats.Overall.Max_level": "1.000680"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.997652",
+                "lavfi.astats.Overall.Max_level": "1.012586"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.976743",
+                "lavfi.astats.Overall.Max_level": "0.972049"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.957511",
+                "lavfi.astats.Overall.Max_level": "0.962249"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.985732",
+                "lavfi.astats.Overall.Max_level": "0.971365"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.978902",
+                "lavfi.astats.Overall.Max_level": "1.017328"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-1.107732",
+                "lavfi.astats.Overall.Max_level": "1.055511"
+            }
+        },
+        {
+            "tags": {
+                "lavfi.astats.Overall.Min_level": "-0.973923",
+                "lavfi.astats.Overall.Max_level": "1.002419"
+            }
+        }
+    ]
+}
